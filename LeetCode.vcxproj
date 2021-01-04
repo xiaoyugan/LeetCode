@@ -19,7 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Code\1480. Running Sum of 1d Array.cpp" />
+    <ClCompile Include="1672. Richest Customer Wealth.h" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1431. Kids With the Greatest Number of Candies.h" />
+    <ClInclude Include="1480. Running Sum of 1d Array.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

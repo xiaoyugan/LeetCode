@@ -13,10 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Array">
+      <UniqueIdentifier>{cdb13bc6-e1ab-43a1-8784-0b652d19a4d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Code\1480. Running Sum of 1d Array.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1672. Richest Customer Wealth.h">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="1431. Kids With the Greatest Number of Candies.h">
+      <Filter>Source Files\Array</Filter>
+    </ClInclude>
+    <ClInclude Include="1480. Running Sum of 1d Array.h">
+      <Filter>Source Files\Array</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
